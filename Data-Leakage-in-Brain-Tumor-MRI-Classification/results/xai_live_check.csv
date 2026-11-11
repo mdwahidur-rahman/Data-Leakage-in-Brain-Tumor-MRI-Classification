@@ -1,0 +1,5 @@
+arm,max_abs_diff
+"VQC central (6q, 3L, ring)",0.0
+FL-LR (FedAvg),2.9294586201267236e-08
+FL-VQC (FedAvg),2.8124999995604583e-08
+DP-LR (eps=8),2.8218841596761024e-08

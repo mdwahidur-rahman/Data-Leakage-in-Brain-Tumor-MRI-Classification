@@ -1,0 +1,13 @@
+{
+ "n_files": 253,
+ "n_excluded_label_conflict": 0,
+ "excluded_files": [],
+ "n_images": 253,
+ "n_tumor": 155,
+ "n_no_tumor": 98,
+ "n_groups": 210,
+ "groups_gt1": 33,
+ "largest_group": 5,
+ "augmentations_per_image": 12,
+ "size": 224
+}

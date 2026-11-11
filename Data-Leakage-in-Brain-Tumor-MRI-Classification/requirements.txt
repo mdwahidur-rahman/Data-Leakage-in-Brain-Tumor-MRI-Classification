@@ -1,0 +1,11 @@
+torch==2.5.1
+torchvision==0.20.1
+timm==0.9.16
+scikit-learn
+xgboost
+opencv-python-headless
+scipy
+pandas
+matplotlib
+Pillow
+numpy

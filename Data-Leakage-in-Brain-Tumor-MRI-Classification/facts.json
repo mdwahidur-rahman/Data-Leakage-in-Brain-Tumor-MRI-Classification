@@ -1,0 +1,9 @@
+{"_source": "values printed by audit_brain_mri_images.py and prep.py runs in this project (see results/ and logs)",
+ "archive_files": 506, "distinct_images": 253, "tumor": 155, "no_tumor": 98,
+ "md5_dup_groups": 22, "md5_dup_files": 47, "md5_cross_class_groups": 0,
+ "n_jpeg": 245, "n_png": 8, "mode_rgb": 217, "mode_l": 30, "mode_rgba": 5, "mode_p": 1,
+ "width_min": 150, "width_max": 1920, "height_min": 168, "height_max": 1427, "distinct_sizes": 184,
+ "median_bytes_no": 7874, "median_bytes_yes": 21524, "share_size_unique_class_pct": 83.8,
+ "auc_mean_intensity": 0.761, "auc_aspect": 0.729, "auc_height": 0.663, "auc_std": 0.657, "auc_bytes": 0.650, "auc_width": 0.593,
+ "hash_candidates": 149, "hash_confirmed": 58, "collision_corr_range": "0.62-0.75",
+ "contrast_sd_raw": 55.0, "contrast_sd_clahe": 66.2, "contrast_sd_full": 66.7}

@@ -1,0 +1,507 @@
+method,rep,fold,img,group,y,prob
+"Matched non-private (no clip, no noise)",0,0,7,26,1,0.91072404
+"Matched non-private (no clip, no noise)",0,0,17,15,1,0.73414564
+"Matched non-private (no clip, no noise)",0,0,22,20,1,0.9999081
+"Matched non-private (no clip, no noise)",0,0,23,21,1,0.9999237
+"Matched non-private (no clip, no noise)",0,0,28,26,1,0.9958318
+"Matched non-private (no clip, no noise)",0,0,34,31,1,0.99822634
+"Matched non-private (no clip, no noise)",0,0,41,37,1,0.997459
+"Matched non-private (no clip, no noise)",0,0,44,40,1,0.9753209
+"Matched non-private (no clip, no noise)",0,0,45,20,1,0.9999081
+"Matched non-private (no clip, no noise)",0,0,46,21,1,0.9999237
+"Matched non-private (no clip, no noise)",0,0,51,44,1,0.99916935
+"Matched non-private (no clip, no noise)",0,0,53,46,1,0.99949944
+"Matched non-private (no clip, no noise)",0,0,65,124,1,0.51694393
+"Matched non-private (no clip, no noise)",0,0,69,60,1,0.1908628
+"Matched non-private (no clip, no noise)",0,0,74,65,1,0.97923136
+"Matched non-private (no clip, no noise)",0,0,83,73,1,0.98800546
+"Matched non-private (no clip, no noise)",0,0,85,75,1,0.995074
+"Matched non-private (no clip, no noise)",0,0,90,80,1,0.99994695
+"Matched non-private (no clip, no noise)",0,0,91,81,1,0.9983608
+"Matched non-private (no clip, no noise)",0,0,95,85,1,0.9996263
+"Matched non-private (no clip, no noise)",0,0,103,87,1,0.90339375
+"Matched non-private (no clip, no noise)",0,0,109,93,1,0.99983704
+"Matched non-private (no clip, no noise)",0,0,111,95,1,0.9988601
+"Matched non-private (no clip, no noise)",0,0,113,97,1,0.9028901
+"Matched non-private (no clip, no noise)",0,0,118,100,1,0.402452
+"Matched non-private (no clip, no noise)",0,0,126,107,1,0.45020068
+"Matched non-private (no clip, no noise)",0,0,137,115,1,0.8917749
+"Matched non-private (no clip, no noise)",0,0,142,119,1,0.04679396
+"Matched non-private (no clip, no noise)",0,0,145,122,1,0.4321937
+"Matched non-private (no clip, no noise)",0,0,147,124,1,0.66384184
+"Matched non-private (no clip, no noise)",0,0,151,128,1,0.99617434
+"Matched non-private (no clip, no noise)",0,0,157,133,0,0.08218799
+"Matched non-private (no clip, no noise)",0,0,164,139,0,0.012753675
+"Matched non-private (no clip, no noise)",0,0,167,141,0,0.00049501285
+"Matched non-private (no clip, no noise)",0,0,171,145,0,5.937245e-05
+"Matched non-private (no clip, no noise)",0,0,172,146,0,0.1477342
+"Matched non-private (no clip, no noise)",0,0,183,156,0,0.4221719
+"Matched non-private (no clip, no noise)",0,0,184,157,0,0.012253983
+"Matched non-private (no clip, no noise)",0,0,185,191,0,0.042823482
+"Matched non-private (no clip, no noise)",0,0,188,159,0,0.023810616
+"Matched non-private (no clip, no noise)",0,0,189,159,0,0.023810616
+"Matched non-private (no clip, no noise)",0,0,198,167,0,0.0071294033
+"Matched non-private (no clip, no noise)",0,0,202,191,0,0.042823482
+"Matched non-private (no clip, no noise)",0,0,206,172,0,0.7363594
+"Matched non-private (no clip, no noise)",0,0,212,177,0,0.026705014
+"Matched non-private (no clip, no noise)",0,0,213,178,0,0.14680335
+"Matched non-private (no clip, no noise)",0,0,215,191,0,0.6043546
+"Matched non-private (no clip, no noise)",0,0,229,191,0,0.043345984
+"Matched non-private (no clip, no noise)",0,0,233,193,0,0.48530227
+"Matched non-private (no clip, no noise)",0,0,235,191,0,0.6043546
+"Matched non-private (no clip, no noise)",0,0,237,196,0,0.014637806
+Clipping only (sigma = 0),0,0,7,26,1,0.9135308
+Clipping only (sigma = 0),0,0,17,15,1,0.73499084
+Clipping only (sigma = 0),0,0,22,20,1,0.9999236
+Clipping only (sigma = 0),0,0,23,21,1,0.9999366
+Clipping only (sigma = 0),0,0,28,26,1,0.99622285
+Clipping only (sigma = 0),0,0,34,31,1,0.9984384
+Clipping only (sigma = 0),0,0,41,37,1,0.99757797
+Clipping only (sigma = 0),0,0,44,40,1,0.97716504
+Clipping only (sigma = 0),0,0,45,20,1,0.9999236
+Clipping only (sigma = 0),0,0,46,21,1,0.9999366
+Clipping only (sigma = 0),0,0,51,44,1,0.9992532
+Clipping only (sigma = 0),0,0,53,46,1,0.9995739
+Clipping only (sigma = 0),0,0,65,124,1,0.5003714
+Clipping only (sigma = 0),0,0,69,60,1,0.18287049
+Clipping only (sigma = 0),0,0,74,65,1,0.9807365
+Clipping only (sigma = 0),0,0,83,73,1,0.98783034
+Clipping only (sigma = 0),0,0,85,75,1,0.9955564
+Clipping only (sigma = 0),0,0,90,80,1,0.99995625
+Clipping only (sigma = 0),0,0,91,81,1,0.99847955
+Clipping only (sigma = 0),0,0,95,85,1,0.99966407
+Clipping only (sigma = 0),0,0,103,87,1,0.90273654
+Clipping only (sigma = 0),0,0,109,93,1,0.9998605
+Clipping only (sigma = 0),0,0,111,95,1,0.99891484
+Clipping only (sigma = 0),0,0,113,97,1,0.89919776
+Clipping only (sigma = 0),0,0,118,100,1,0.3907073
+Clipping only (sigma = 0),0,0,126,107,1,0.4387122
+Clipping only (sigma = 0),0,0,137,115,1,0.88272417
+Clipping only (sigma = 0),0,0,142,119,1,0.036758643
+Clipping only (sigma = 0),0,0,145,122,1,0.37778997
+Clipping only (sigma = 0),0,0,147,124,1,0.65121365
+Clipping only (sigma = 0),0,0,151,128,1,0.99633837
+Clipping only (sigma = 0),0,0,157,133,0,0.067039415
+Clipping only (sigma = 0),0,0,164,139,0,0.010633301
+Clipping only (sigma = 0),0,0,167,141,0,0.00036701388
+Clipping only (sigma = 0),0,0,171,145,0,4.30755e-05
+Clipping only (sigma = 0),0,0,172,146,0,0.14412645
+Clipping only (sigma = 0),0,0,183,156,0,0.40474755
+Clipping only (sigma = 0),0,0,184,157,0,0.010598253
+Clipping only (sigma = 0),0,0,185,191,0,0.039131407
+Clipping only (sigma = 0),0,0,188,159,0,0.020076234
+Clipping only (sigma = 0),0,0,189,159,0,0.020076234
+Clipping only (sigma = 0),0,0,198,167,0,0.006069448
+Clipping only (sigma = 0),0,0,202,191,0,0.039131407
+Clipping only (sigma = 0),0,0,206,172,0,0.7236767
+Clipping only (sigma = 0),0,0,212,177,0,0.022897478
+Clipping only (sigma = 0),0,0,213,178,0,0.13112548
+Clipping only (sigma = 0),0,0,215,191,0,0.61338526
+Clipping only (sigma = 0),0,0,229,191,0,0.03912354
+Clipping only (sigma = 0),0,0,233,193,0,0.47632647
+Clipping only (sigma = 0),0,0,235,191,0,0.61338526
+Clipping only (sigma = 0),0,0,237,196,0,0.012910892
+"Matched non-private (no clip, no noise)",0,1,1,1,1,0.9538384
+"Matched non-private (no clip, no noise)",0,1,4,4,1,0.92558956
+"Matched non-private (no clip, no noise)",0,1,8,7,1,0.6470782
+"Matched non-private (no clip, no noise)",0,1,14,13,1,0.96432364
+"Matched non-private (no clip, no noise)",0,1,19,17,1,0.28758287
+"Matched non-private (no clip, no noise)",0,1,35,32,1,0.99583215
+"Matched non-private (no clip, no noise)",0,1,36,33,1,0.99915516
+"Matched non-private (no clip, no noise)",0,1,37,34,1,0.99982554
+"Matched non-private (no clip, no noise)",0,1,40,36,1,0.9999572
+"Matched non-private (no clip, no noise)",0,1,43,39,1,0.9981567
+"Matched non-private (no clip, no noise)",0,1,47,41,1,0.9996433
+"Matched non-private (no clip, no noise)",0,1,57,50,1,0.9976204
+"Matched non-private (no clip, no noise)",0,1,59,52,1,0.9998287
+"Matched non-private (no clip, no noise)",0,1,61,54,1,0.99991655
+"Matched non-private (no clip, no noise)",0,1,63,56,1,0.77401114
+"Matched non-private (no clip, no noise)",0,1,68,59,1,0.7799247
+"Matched non-private (no clip, no noise)",0,1,75,66,1,0.99995136
+"Matched non-private (no clip, no noise)",0,1,86,76,1,0.99995816
+"Matched non-private (no clip, no noise)",0,1,92,82,1,0.99980074
+"Matched non-private (no clip, no noise)",0,1,93,83,1,0.99989486
+"Matched non-private (no clip, no noise)",0,1,99,106,1,0.99948525
+"Matched non-private (no clip, no noise)",0,1,100,1,1,0.9538384
+"Matched non-private (no clip, no noise)",0,1,101,83,1,0.99989486
+"Matched non-private (no clip, no noise)",0,1,107,91,1,0.9986628
+"Matched non-private (no clip, no noise)",0,1,115,98,1,0.992603
+"Matched non-private (no clip, no noise)",0,1,116,83,1,0.99989486
+"Matched non-private (no clip, no noise)",0,1,119,101,1,0.96615446
+"Matched non-private (no clip, no noise)",0,1,125,106,1,0.994487
+"Matched non-private (no clip, no noise)",0,1,130,83,1,0.99989486
+"Matched non-private (no clip, no noise)",0,1,141,118,1,0.34458378
+"Matched non-private (no clip, no noise)",0,1,154,131,1,0.44685885
+"Matched non-private (no clip, no noise)",0,1,162,137,0,0.0015619284
+"Matched non-private (no clip, no noise)",0,1,170,144,0,0.7712265
+"Matched non-private (no clip, no noise)",0,1,173,137,0,0.0015619284
+"Matched non-private (no clip, no noise)",0,1,175,148,0,0.08173935
+"Matched non-private (no clip, no noise)",0,1,176,149,0,0.01708338
+"Matched non-private (no clip, no noise)",0,1,177,150,0,0.003924568
+"Matched non-private (no clip, no noise)",0,1,187,158,0,0.20687102
+"Matched non-private (no clip, no noise)",0,1,205,171,0,0.60313267
+"Matched non-private (no clip, no noise)",0,1,207,173,0,0.44407693
+"Matched non-private (no clip, no noise)",0,1,208,173,0,0.9970336
+"Matched non-private (no clip, no noise)",0,1,214,179,0,0.24988073
+"Matched non-private (no clip, no noise)",0,1,216,158,0,0.20687102
+"Matched non-private (no clip, no noise)",0,1,219,182,0,0.3064189
+"Matched non-private (no clip, no noise)",0,1,223,186,0,0.99219984
+"Matched non-private (no clip, no noise)",0,1,232,195,0,0.29260474
+"Matched non-private (no clip, no noise)",0,1,236,195,0,0.059534363
+"Matched non-private (no clip, no noise)",0,1,239,197,0,0.0015411144
+"Matched non-private (no clip, no noise)",0,1,249,206,0,0.0018937413
+"Matched non-private (no clip, no noise)",0,1,252,209,0,0.003395376
+Clipping only (sigma = 0),0,1,1,1,1,0.9535521
+Clipping only (sigma = 0),0,1,4,4,1,0.92707056
+Clipping only (sigma = 0),0,1,8,7,1,0.6355071
+Clipping only (sigma = 0),0,1,14,13,1,0.9645779
+Clipping only (sigma = 0),0,1,19,17,1,0.27204877
+Clipping only (sigma = 0),0,1,35,32,1,0.99617577
+Clipping only (sigma = 0),0,1,36,33,1,0.9992204
+Clipping only (sigma = 0),0,1,37,34,1,0.99983656
+Clipping only (sigma = 0),0,1,40,36,1,0.9999585
+Clipping only (sigma = 0),0,1,43,39,1,0.99818355
+Clipping only (sigma = 0),0,1,47,41,1,0.9996536
+Clipping only (sigma = 0),0,1,57,50,1,0.9976974
+Clipping only (sigma = 0),0,1,59,52,1,0.99983454
+Clipping only (sigma = 0),0,1,61,54,1,0.9999229
+Clipping only (sigma = 0),0,1,63,56,1,0.76741993
+Clipping only (sigma = 0),0,1,68,59,1,0.768057
+Clipping only (sigma = 0),0,1,75,66,1,0.9999553
+Clipping only (sigma = 0),0,1,86,76,1,0.9999609
+Clipping only (sigma = 0),0,1,92,82,1,0.9998149
+Clipping only (sigma = 0),0,1,93,83,1,0.9998969
+Clipping only (sigma = 0),0,1,99,106,1,0.99951005
+Clipping only (sigma = 0),0,1,100,1,1,0.9535521
+Clipping only (sigma = 0),0,1,101,83,1,0.9998969
+Clipping only (sigma = 0),0,1,107,91,1,0.99869365
+Clipping only (sigma = 0),0,1,115,98,1,0.99256563
+Clipping only (sigma = 0),0,1,116,83,1,0.9998969
+Clipping only (sigma = 0),0,1,119,101,1,0.96602786
+Clipping only (sigma = 0),0,1,125,106,1,0.9946373
+Clipping only (sigma = 0),0,1,130,83,1,0.9998969
+Clipping only (sigma = 0),0,1,141,118,1,0.33324283
+Clipping only (sigma = 0),0,1,154,131,1,0.4313998
+Clipping only (sigma = 0),0,1,162,137,0,0.0013647433
+Clipping only (sigma = 0),0,1,170,144,0,0.7676456
+Clipping only (sigma = 0),0,1,173,137,0,0.0013647433
+Clipping only (sigma = 0),0,1,175,148,0,0.07632516
+Clipping only (sigma = 0),0,1,176,149,0,0.016031343
+Clipping only (sigma = 0),0,1,177,150,0,0.0034571716
+Clipping only (sigma = 0),0,1,187,158,0,0.196504
+Clipping only (sigma = 0),0,1,205,171,0,0.59218866
+Clipping only (sigma = 0),0,1,207,173,0,0.43108436
+Clipping only (sigma = 0),0,1,208,173,0,0.9971324
+Clipping only (sigma = 0),0,1,214,179,0,0.23390184
+Clipping only (sigma = 0),0,1,216,158,0,0.196504
+Clipping only (sigma = 0),0,1,219,182,0,0.29889354
+Clipping only (sigma = 0),0,1,223,186,0,0.99219656
+Clipping only (sigma = 0),0,1,232,195,0,0.28079396
+Clipping only (sigma = 0),0,1,236,195,0,0.05467496
+Clipping only (sigma = 0),0,1,239,197,0,0.0012916015
+Clipping only (sigma = 0),0,1,249,206,0,0.0016885196
+Clipping only (sigma = 0),0,1,252,209,0,0.0030670816
+"Matched non-private (no clip, no noise)",0,2,0,0,1,0.98364913
+"Matched non-private (no clip, no noise)",0,2,3,3,1,0.9144761
+"Matched non-private (no clip, no noise)",0,2,5,5,1,0.8697176
+"Matched non-private (no clip, no noise)",0,2,12,11,1,0.7967671
+"Matched non-private (no clip, no noise)",0,2,13,12,1,0.065490365
+"Matched non-private (no clip, no noise)",0,2,18,16,1,0.8912663
+"Matched non-private (no clip, no noise)",0,2,20,18,1,0.58674204
+"Matched non-private (no clip, no noise)",0,2,29,27,1,0.9936982
+"Matched non-private (no clip, no noise)",0,2,31,104,1,0.9024016
+"Matched non-private (no clip, no noise)",0,2,42,38,1,0.5223053
+"Matched non-private (no clip, no noise)",0,2,48,42,1,0.9878198
+"Matched non-private (no clip, no noise)",0,2,56,49,1,0.31264558
+"Matched non-private (no clip, no noise)",0,2,62,55,1,0.36933693
+"Matched non-private (no clip, no noise)",0,2,67,58,1,0.5328658
+"Matched non-private (no clip, no noise)",0,2,70,61,1,0.9724636
+"Matched non-private (no clip, no noise)",0,2,76,67,1,0.34377253
+"Matched non-private (no clip, no noise)",0,2,78,68,1,0.17702511
+"Matched non-private (no clip, no noise)",0,2,82,72,1,0.9930568
+"Matched non-private (no clip, no noise)",0,2,84,74,1,0.9418274
+"Matched non-private (no clip, no noise)",0,2,88,78,1,0.2783865
+"Matched non-private (no clip, no noise)",0,2,98,116,1,0.92254025
+"Matched non-private (no clip, no noise)",0,2,117,99,1,0.55032015
+"Matched non-private (no clip, no noise)",0,2,122,104,1,0.66102445
+"Matched non-private (no clip, no noise)",0,2,129,109,1,0.3552667
+"Matched non-private (no clip, no noise)",0,2,132,111,1,0.77579117
+"Matched non-private (no clip, no noise)",0,2,133,99,1,0.55032015
+"Matched non-private (no clip, no noise)",0,2,134,112,1,0.8440097
+"Matched non-private (no clip, no noise)",0,2,136,114,1,0.99095374
+"Matched non-private (no clip, no noise)",0,2,138,27,1,0.9936982
+"Matched non-private (no clip, no noise)",0,2,139,116,1,0.9129212
+"Matched non-private (no clip, no noise)",0,2,153,130,1,0.99228066
+"Matched non-private (no clip, no noise)",0,2,155,166,0,0.0033518774
+"Matched non-private (no clip, no noise)",0,2,163,138,0,0.02755121
+"Matched non-private (no clip, no noise)",0,2,168,142,0,0.08445355
+"Matched non-private (no clip, no noise)",0,2,178,151,0,0.30814672
+"Matched non-private (no clip, no noise)",0,2,179,152,0,0.35860422
+"Matched non-private (no clip, no noise)",0,2,180,153,0,0.8355825
+"Matched non-private (no clip, no noise)",0,2,181,154,0,0.19439404
+"Matched non-private (no clip, no noise)",0,2,182,155,0,0.18185279
+"Matched non-private (no clip, no noise)",0,2,196,165,0,0.24216159
+"Matched non-private (no clip, no noise)",0,2,197,166,0,0.008172431
+"Matched non-private (no clip, no noise)",0,2,199,169,0,0.5732804
+"Matched non-private (no clip, no noise)",0,2,201,169,0,0.47496805
+"Matched non-private (no clip, no noise)",0,2,210,175,0,0.07573683
+"Matched non-private (no clip, no noise)",0,2,228,190,0,0.0028107185
+"Matched non-private (no clip, no noise)",0,2,230,166,0,0.008172431
+"Matched non-private (no clip, no noise)",0,2,240,198,0,0.2046313
+"Matched non-private (no clip, no noise)",0,2,246,166,0,0.0033518774
+"Matched non-private (no clip, no noise)",0,2,247,204,0,0.047642224
+"Matched non-private (no clip, no noise)",0,2,248,205,0,0.29256475
+Clipping only (sigma = 0),0,2,0,0,1,0.9841957
+Clipping only (sigma = 0),0,2,3,3,1,0.91445106
+Clipping only (sigma = 0),0,2,5,5,1,0.87067914
+Clipping only (sigma = 0),0,2,12,11,1,0.7975679
+Clipping only (sigma = 0),0,2,13,12,1,0.06328666
+Clipping only (sigma = 0),0,2,18,16,1,0.8929542
+Clipping only (sigma = 0),0,2,20,18,1,0.58490473
+Clipping only (sigma = 0),0,2,29,27,1,0.9938896
+Clipping only (sigma = 0),0,2,31,104,1,0.90366983
+Clipping only (sigma = 0),0,2,42,38,1,0.5213012
+Clipping only (sigma = 0),0,2,48,42,1,0.9881842
+Clipping only (sigma = 0),0,2,56,49,1,0.3084727
+Clipping only (sigma = 0),0,2,62,55,1,0.3649042
+Clipping only (sigma = 0),0,2,67,58,1,0.53047115
+Clipping only (sigma = 0),0,2,70,61,1,0.9730748
+Clipping only (sigma = 0),0,2,76,67,1,0.3397987
+Clipping only (sigma = 0),0,2,78,68,1,0.17310141
+Clipping only (sigma = 0),0,2,82,72,1,0.99326974
+Clipping only (sigma = 0),0,2,84,74,1,0.9424626
+Clipping only (sigma = 0),0,2,88,78,1,0.27359575
+Clipping only (sigma = 0),0,2,98,116,1,0.92433906
+Clipping only (sigma = 0),0,2,117,99,1,0.5490431
+Clipping only (sigma = 0),0,2,122,104,1,0.6615928
+Clipping only (sigma = 0),0,2,129,109,1,0.3540201
+Clipping only (sigma = 0),0,2,132,111,1,0.77571416
+Clipping only (sigma = 0),0,2,133,99,1,0.5490431
+Clipping only (sigma = 0),0,2,134,112,1,0.8440967
+Clipping only (sigma = 0),0,2,136,114,1,0.9912512
+Clipping only (sigma = 0),0,2,138,27,1,0.9938896
+Clipping only (sigma = 0),0,2,139,116,1,0.91481453
+Clipping only (sigma = 0),0,2,153,130,1,0.99252665
+Clipping only (sigma = 0),0,2,155,166,0,0.0031329128
+Clipping only (sigma = 0),0,2,163,138,0,0.026401144
+Clipping only (sigma = 0),0,2,168,142,0,0.083158344
+Clipping only (sigma = 0),0,2,178,151,0,0.30618703
+Clipping only (sigma = 0),0,2,179,152,0,0.35499144
+Clipping only (sigma = 0),0,2,180,153,0,0.8350402
+Clipping only (sigma = 0),0,2,181,154,0,0.19247171
+Clipping only (sigma = 0),0,2,182,155,0,0.17906642
+Clipping only (sigma = 0),0,2,196,165,0,0.23722161
+Clipping only (sigma = 0),0,2,197,166,0,0.007720525
+Clipping only (sigma = 0),0,2,199,169,0,0.57244873
+Clipping only (sigma = 0),0,2,201,169,0,0.47258475
+Clipping only (sigma = 0),0,2,210,175,0,0.073936515
+Clipping only (sigma = 0),0,2,228,190,0,0.002631122
+Clipping only (sigma = 0),0,2,230,166,0,0.007720525
+Clipping only (sigma = 0),0,2,240,198,0,0.19998375
+Clipping only (sigma = 0),0,2,246,166,0,0.0031329128
+Clipping only (sigma = 0),0,2,247,204,0,0.046039
+Clipping only (sigma = 0),0,2,248,205,0,0.28799045
+"Matched non-private (no clip, no noise)",0,3,10,9,1,0.9988708
+"Matched non-private (no clip, no noise)",0,3,15,102,1,0.9152721
+"Matched non-private (no clip, no noise)",0,3,16,14,1,0.866579
+"Matched non-private (no clip, no noise)",0,3,26,24,1,0.8050134
+"Matched non-private (no clip, no noise)",0,3,38,9,1,0.9988708
+"Matched non-private (no clip, no noise)",0,3,49,43,1,0.9999939
+"Matched non-private (no clip, no noise)",0,3,55,48,1,0.98478335
+"Matched non-private (no clip, no noise)",0,3,60,53,1,0.99993134
+"Matched non-private (no clip, no noise)",0,3,64,126,1,0.814388
+"Matched non-private (no clip, no noise)",0,3,66,57,1,0.5919527
+"Matched non-private (no clip, no noise)",0,3,71,62,1,0.6114069
+"Matched non-private (no clip, no noise)",0,3,72,63,1,0.9985468
+"Matched non-private (no clip, no noise)",0,3,73,64,1,0.9870206
+"Matched non-private (no clip, no noise)",0,3,77,113,1,0.93497324
+"Matched non-private (no clip, no noise)",0,3,80,70,1,0.0006553446
+"Matched non-private (no clip, no noise)",0,3,81,71,1,0.4691866
+"Matched non-private (no clip, no noise)",0,3,89,79,1,0.9983664
+"Matched non-private (no clip, no noise)",0,3,105,89,1,0.8977105
+"Matched non-private (no clip, no noise)",0,3,106,90,1,0.55361754
+"Matched non-private (no clip, no noise)",0,3,108,92,1,0.093228415
+"Matched non-private (no clip, no noise)",0,3,112,96,1,0.93870723
+"Matched non-private (no clip, no noise)",0,3,120,102,1,0.99194825
+"Matched non-private (no clip, no noise)",0,3,128,113,1,0.93497324
+"Matched non-private (no clip, no noise)",0,3,135,113,1,0.92653984
+"Matched non-private (no clip, no noise)",0,3,140,117,1,0.5417826
+"Matched non-private (no clip, no noise)",0,3,143,120,1,0.971359
+"Matched non-private (no clip, no noise)",0,3,144,121,1,0.9989415
+"Matched non-private (no clip, no noise)",0,3,146,123,1,0.7381415
+"Matched non-private (no clip, no noise)",0,3,149,126,1,0.8475062
+"Matched non-private (no clip, no noise)",0,3,150,127,1,0.99521375
+"Matched non-private (no clip, no noise)",0,3,152,129,1,0.9991492
+"Matched non-private (no clip, no noise)",0,3,158,200,0,0.008696713
+"Matched non-private (no clip, no noise)",0,3,159,134,0,0.0008507772
+"Matched non-private (no clip, no noise)",0,3,161,136,0,0.9981724
+"Matched non-private (no clip, no noise)",0,3,166,140,0,0.8272155
+"Matched non-private (no clip, no noise)",0,3,190,134,0,0.0008507772
+"Matched non-private (no clip, no noise)",0,3,194,163,0,0.4492012
+"Matched non-private (no clip, no noise)",0,3,200,168,0,0.00871283
+"Matched non-private (no clip, no noise)",0,3,209,174,0,0.97254366
+"Matched non-private (no clip, no noise)",0,3,211,176,0,0.8696777
+"Matched non-private (no clip, no noise)",0,3,217,180,0,0.014039416
+"Matched non-private (no clip, no noise)",0,3,220,183,0,0.012405142
+"Matched non-private (no clip, no noise)",0,3,222,185,0,0.017039638
+"Matched non-private (no clip, no noise)",0,3,224,185,0,0.017039638
+"Matched non-private (no clip, no noise)",0,3,226,188,0,0.13182609
+"Matched non-private (no clip, no noise)",0,3,234,194,0,0.06518055
+"Matched non-private (no clip, no noise)",0,3,242,200,0,0.1020032
+"Matched non-private (no clip, no noise)",0,3,243,201,0,0.02605098
+"Matched non-private (no clip, no noise)",0,3,244,202,0,0.020817004
+"Matched non-private (no clip, no noise)",0,3,250,207,0,0.023889363
+"Matched non-private (no clip, no noise)",0,3,251,208,0,0.017140057
+Clipping only (sigma = 0),0,3,10,9,1,0.99912626
+Clipping only (sigma = 0),0,3,15,102,1,0.9263747
+Clipping only (sigma = 0),0,3,16,14,1,0.88108456
+Clipping only (sigma = 0),0,3,26,24,1,0.8184068
+Clipping only (sigma = 0),0,3,38,9,1,0.99912626
+Clipping only (sigma = 0),0,3,49,43,1,0.99999607
+Clipping only (sigma = 0),0,3,55,48,1,0.98733056
+Clipping only (sigma = 0),0,3,60,53,1,0.9999521
+Clipping only (sigma = 0),0,3,64,126,1,0.83043325
+Clipping only (sigma = 0),0,3,66,57,1,0.6162667
+Clipping only (sigma = 0),0,3,71,62,1,0.6260791
+Clipping only (sigma = 0),0,3,72,63,1,0.99885535
+Clipping only (sigma = 0),0,3,73,64,1,0.98912317
+Clipping only (sigma = 0),0,3,77,113,1,0.9422441
+Clipping only (sigma = 0),0,3,80,70,1,0.00055891287
+Clipping only (sigma = 0),0,3,81,71,1,0.47745144
+Clipping only (sigma = 0),0,3,89,79,1,0.9986909
+Clipping only (sigma = 0),0,3,105,89,1,0.90697134
+Clipping only (sigma = 0),0,3,106,90,1,0.569257
+Clipping only (sigma = 0),0,3,108,92,1,0.090712674
+Clipping only (sigma = 0),0,3,112,96,1,0.9468972
+Clipping only (sigma = 0),0,3,120,102,1,0.993619
+Clipping only (sigma = 0),0,3,128,113,1,0.9422441
+Clipping only (sigma = 0),0,3,135,113,1,0.9347299
+Clipping only (sigma = 0),0,3,140,117,1,0.5616381
+Clipping only (sigma = 0),0,3,143,120,1,0.9751667
+Clipping only (sigma = 0),0,3,144,121,1,0.99917006
+Clipping only (sigma = 0),0,3,146,123,1,0.753142
+Clipping only (sigma = 0),0,3,149,126,1,0.86207265
+Clipping only (sigma = 0),0,3,150,127,1,0.99621934
+Clipping only (sigma = 0),0,3,152,129,1,0.9993594
+Clipping only (sigma = 0),0,3,158,200,0,0.007912164
+Clipping only (sigma = 0),0,3,159,134,0,0.0007078774
+Clipping only (sigma = 0),0,3,161,136,0,0.99856585
+Clipping only (sigma = 0),0,3,166,140,0,0.8411182
+Clipping only (sigma = 0),0,3,190,134,0,0.0007078774
+Clipping only (sigma = 0),0,3,194,163,0,0.45671237
+Clipping only (sigma = 0),0,3,200,168,0,0.007828738
+Clipping only (sigma = 0),0,3,209,174,0,0.9761219
+Clipping only (sigma = 0),0,3,211,176,0,0.8820681
+Clipping only (sigma = 0),0,3,217,180,0,0.013072267
+Clipping only (sigma = 0),0,3,220,183,0,0.011438692
+Clipping only (sigma = 0),0,3,222,185,0,0.015623763
+Clipping only (sigma = 0),0,3,224,185,0,0.015623763
+Clipping only (sigma = 0),0,3,226,188,0,0.13021797
+Clipping only (sigma = 0),0,3,234,194,0,0.06303662
+Clipping only (sigma = 0),0,3,242,200,0,0.10045082
+Clipping only (sigma = 0),0,3,243,201,0,0.024518263
+Clipping only (sigma = 0),0,3,244,202,0,0.01945683
+Clipping only (sigma = 0),0,3,250,207,0,0.021828301
+Clipping only (sigma = 0),0,3,251,208,0,0.015674394
+"Matched non-private (no clip, no noise)",0,4,2,2,1,0.114280604
+"Matched non-private (no clip, no noise)",0,4,6,6,1,0.9954332
+"Matched non-private (no clip, no noise)",0,4,9,8,1,0.94379133
+"Matched non-private (no clip, no noise)",0,4,11,10,1,0.9857626
+"Matched non-private (no clip, no noise)",0,4,21,19,1,0.9958947
+"Matched non-private (no clip, no noise)",0,4,24,22,1,0.9956867
+"Matched non-private (no clip, no noise)",0,4,25,23,1,0.7041319
+"Matched non-private (no clip, no noise)",0,4,27,25,1,0.9640621
+"Matched non-private (no clip, no noise)",0,4,30,28,1,0.99542624
+"Matched non-private (no clip, no noise)",0,4,32,29,1,0.9223685
+"Matched non-private (no clip, no noise)",0,4,33,30,1,0.96862304
+"Matched non-private (no clip, no noise)",0,4,39,35,1,0.99555343
+"Matched non-private (no clip, no noise)",0,4,50,25,1,0.9640621
+"Matched non-private (no clip, no noise)",0,4,52,45,1,0.97685003
+"Matched non-private (no clip, no noise)",0,4,54,47,1,0.23257515
+"Matched non-private (no clip, no noise)",0,4,58,51,1,0.9018924
+"Matched non-private (no clip, no noise)",0,4,79,69,1,0.996585
+"Matched non-private (no clip, no noise)",0,4,87,77,1,0.9980526
+"Matched non-private (no clip, no noise)",0,4,94,84,1,0.98559684
+"Matched non-private (no clip, no noise)",0,4,96,8,1,0.94379133
+"Matched non-private (no clip, no noise)",0,4,97,25,1,0.9640621
+"Matched non-private (no clip, no noise)",0,4,102,86,1,0.9638275
+"Matched non-private (no clip, no noise)",0,4,104,88,1,0.99554765
+"Matched non-private (no clip, no noise)",0,4,110,94,1,0.98815525
+"Matched non-private (no clip, no noise)",0,4,114,103,1,0.9918595
+"Matched non-private (no clip, no noise)",0,4,121,103,1,0.9920884
+"Matched non-private (no clip, no noise)",0,4,123,105,1,0.71924835
+"Matched non-private (no clip, no noise)",0,4,124,84,1,0.98559684
+"Matched non-private (no clip, no noise)",0,4,127,108,1,0.6607101
+"Matched non-private (no clip, no noise)",0,4,131,110,1,0.91291493
+"Matched non-private (no clip, no noise)",0,4,148,125,1,0.8621902
+"Matched non-private (no clip, no noise)",0,4,156,132,0,0.072258584
+"Matched non-private (no clip, no noise)",0,4,160,135,0,0.006536691
+"Matched non-private (no clip, no noise)",0,4,165,164,0,0.0019825848
+"Matched non-private (no clip, no noise)",0,4,169,143,0,0.1416392
+"Matched non-private (no clip, no noise)",0,4,174,147,0,0.6657592
+"Matched non-private (no clip, no noise)",0,4,186,181,0,0.013222542
+"Matched non-private (no clip, no noise)",0,4,191,160,0,0.005760656
+"Matched non-private (no clip, no noise)",0,4,192,161,0,0.23429978
+"Matched non-private (no clip, no noise)",0,4,193,162,0,0.0013392486
+"Matched non-private (no clip, no noise)",0,4,195,164,0,0.069979705
+"Matched non-private (no clip, no noise)",0,4,203,132,0,0.072258584
+"Matched non-private (no clip, no noise)",0,4,204,170,0,0.011536374
+"Matched non-private (no clip, no noise)",0,4,218,181,0,0.017702661
+"Matched non-private (no clip, no noise)",0,4,221,184,0,0.2294803
+"Matched non-private (no clip, no noise)",0,4,225,187,0,0.0027275586
+"Matched non-private (no clip, no noise)",0,4,227,189,0,0.3676688
+"Matched non-private (no clip, no noise)",0,4,231,192,0,0.014992508
+"Matched non-private (no clip, no noise)",0,4,238,181,0,0.017702669
+"Matched non-private (no clip, no noise)",0,4,241,199,0,0.0058488376
+"Matched non-private (no clip, no noise)",0,4,245,203,0,0.49436983
+Clipping only (sigma = 0),0,4,2,2,1,0.11306041
+Clipping only (sigma = 0),0,4,6,6,1,0.9956493
+Clipping only (sigma = 0),0,4,9,8,1,0.9446778
+Clipping only (sigma = 0),0,4,11,10,1,0.9863907
+Clipping only (sigma = 0),0,4,21,19,1,0.9961486
+Clipping only (sigma = 0),0,4,24,22,1,0.9958995
+Clipping only (sigma = 0),0,4,25,23,1,0.7089569
+Clipping only (sigma = 0),0,4,27,25,1,0.9654511
+Clipping only (sigma = 0),0,4,30,28,1,0.9957278
+Clipping only (sigma = 0),0,4,32,29,1,0.92333686
+Clipping only (sigma = 0),0,4,33,30,1,0.96999913
+Clipping only (sigma = 0),0,4,39,35,1,0.99573296
+Clipping only (sigma = 0),0,4,50,25,1,0.9654511
+Clipping only (sigma = 0),0,4,52,45,1,0.9777158
+Clipping only (sigma = 0),0,4,54,47,1,0.23071375
+Clipping only (sigma = 0),0,4,58,51,1,0.9014531
+Clipping only (sigma = 0),0,4,79,69,1,0.99683714
+Clipping only (sigma = 0),0,4,87,77,1,0.9981839
+Clipping only (sigma = 0),0,4,94,84,1,0.985986
+Clipping only (sigma = 0),0,4,96,8,1,0.9446778
+Clipping only (sigma = 0),0,4,97,25,1,0.9654511
+Clipping only (sigma = 0),0,4,102,86,1,0.9649111
+Clipping only (sigma = 0),0,4,104,88,1,0.99582195
+Clipping only (sigma = 0),0,4,110,94,1,0.9887798
+Clipping only (sigma = 0),0,4,114,103,1,0.99215287
+Clipping only (sigma = 0),0,4,121,103,1,0.9923596
+Clipping only (sigma = 0),0,4,123,105,1,0.7236953
+Clipping only (sigma = 0),0,4,124,84,1,0.985986
+Clipping only (sigma = 0),0,4,127,108,1,0.65485394
+Clipping only (sigma = 0),0,4,131,110,1,0.9156808
+Clipping only (sigma = 0),0,4,148,125,1,0.8649505
+Clipping only (sigma = 0),0,4,156,132,0,0.0704405
+Clipping only (sigma = 0),0,4,160,135,0,0.0062786136
+Clipping only (sigma = 0),0,4,165,164,0,0.0019003883
+Clipping only (sigma = 0),0,4,169,143,0,0.1427721
+Clipping only (sigma = 0),0,4,174,147,0,0.670825
+Clipping only (sigma = 0),0,4,186,181,0,0.013053112
+Clipping only (sigma = 0),0,4,191,160,0,0.0054491637
+Clipping only (sigma = 0),0,4,192,161,0,0.23778091
+Clipping only (sigma = 0),0,4,193,162,0,0.0012999994
+Clipping only (sigma = 0),0,4,195,164,0,0.068920806
+Clipping only (sigma = 0),0,4,203,132,0,0.0704405
+Clipping only (sigma = 0),0,4,204,170,0,0.010850086
+Clipping only (sigma = 0),0,4,218,181,0,0.017519215
+Clipping only (sigma = 0),0,4,221,184,0,0.23078287
+Clipping only (sigma = 0),0,4,225,187,0,0.0026444786
+Clipping only (sigma = 0),0,4,227,189,0,0.36579633
+Clipping only (sigma = 0),0,4,231,192,0,0.014892261
+Clipping only (sigma = 0),0,4,238,181,0,0.017519215
+Clipping only (sigma = 0),0,4,241,199,0,0.0056221285
+Clipping only (sigma = 0),0,4,245,203,0,0.49895868
